@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am Rafael Castanheeira, I'm 25 years old and live in Brasil.
+🌱 I’m currently Studying at Digital Inovation One to be a fullstack developer, I'm working on .NET e Angular projects.
+⚡ I like to play games and listen to music.
 <!--
 **rafaelcastan/rafaelcastan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
