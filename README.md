@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Rafael Castanheeira, I'm 25 years old and live in Brasil.
+I am Rafael Castanheira, I'm 25 years old and live in Brasil.
 
 🌱 I’m currently Studying at Digital Inovation One to be a fullstack developer, I'm working on .NET e Angular projects.
 
