@@ -6,7 +6,7 @@ I am Rafael Castanheira, I'm 26 years old and live in Brasil.
 
 ⚡ I like to play games and listen to music.
 
-[![rafaelcastan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelcastan)](https://github.com/anuraghazra/github-readme-stats)
+[![rafaelcastan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelcastan&hide=contribs,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **rafaelcastan/rafaelcastan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
