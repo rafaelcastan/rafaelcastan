@@ -2,7 +2,7 @@
 
 I am Rafael Castanheira, I'm 26 years old and live in Brazil.
 
-🌱 I’m currently Studying at Rocketseat to be a fullstack developer, I'm working on ReactJs projects.
+🌱 Graduated at Rocketseat Ignite/ReactJs and working on ReactJs projects.
 
 ⚡ I like to play games and listen to music.
 
